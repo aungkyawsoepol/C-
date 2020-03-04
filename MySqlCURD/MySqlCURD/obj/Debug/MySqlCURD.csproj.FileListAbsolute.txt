@@ -1,0 +1,15 @@
+D:\My Project\MySqlCURD\MySqlCURD\obj\Debug\MySqlCURD.csprojAssemblyReference.cache
+D:\My Project\MySqlCURD\MySqlCURD\obj\Debug\MySqlCURD.Form1.resources
+D:\My Project\MySqlCURD\MySqlCURD\obj\Debug\MySqlCURD.Properties.Resources.resources
+D:\My Project\MySqlCURD\MySqlCURD\obj\Debug\MySqlCURD.csproj.GenerateResource.cache
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\MySqlCURD.exe.config
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\MySqlCURD.exe
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\MySqlCURD.pdb
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\MySql.Data.dll
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\Google.Protobuf.dll
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\BouncyCastle.Crypto.dll
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\Renci.SshNet.dll
+D:\My Project\MySqlCURD\MySqlCURD\bin\Debug\MySql.Data.xml
+D:\My Project\MySqlCURD\MySqlCURD\obj\Debug\MySqlCURD.csproj.CopyComplete
+D:\My Project\MySqlCURD\MySqlCURD\obj\Debug\MySqlCURD.exe
+D:\My Project\MySqlCURD\MySqlCURD\obj\Debug\MySqlCURD.pdb

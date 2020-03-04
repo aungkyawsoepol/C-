@@ -1,0 +1,15 @@
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\Mobile_Phone_Service_Tool.exe.config
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\Mobile_Phone_Service_Tool.exe
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\Mobile_Phone_Service_Tool.pdb
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\obj\Debug\Mobile_Phone_Service_Tool.Form1.resources
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\obj\Debug\Mobile_Phone_Service_Tool.Properties.Resources.resources
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\obj\Debug\Mobile_Phone_Service_Tool.csproj.GenerateResource.cache
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\obj\Debug\Mobile_Phone_Service_Tool.exe
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\obj\Debug\Mobile_Phone_Service_Tool.pdb
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\MySql.Data.dll
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\Google.Protobuf.dll
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\BouncyCastle.Crypto.dll
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\Renci.SshNet.dll
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\bin\Debug\MySql.Data.xml
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\obj\Debug\Mobile_Phone_Service_Tool.csproj.CopyComplete
+D:\My Project\Mobile_Phone_Service_Tool\Mobile_Phone_Service_Tool\obj\Debug\Mobile_Phone_Service_Tool.csprojAssemblyReference.cache
